@@ -5,9 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("/Users/brettrgebbie/github_io_page/brgsite/public/banana-leaf-black-background-digital-art-i1m1ulaygn46l916.jpg");
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* 
+//reno sand #B26E33
+//feldgrau #4d5d53
+//alice blue #F0F8FF */
