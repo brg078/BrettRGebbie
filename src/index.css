@@ -6,7 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("/Users/brettrgebbie/github_io_page/brgsite/public/banana-leaf-black-background-digital-art-i1m1ulaygn46l916.jpg");
+  
   background-size: cover;
+  background-attachment: fixed;
 }
 
 code {
