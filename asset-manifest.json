@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BrettRGebbie/static/css/main.ee98d418.css",
+    "main.css": "/BrettRGebbie/static/css/main.70311978.css",
     "main.js": "/BrettRGebbie/static/js/main.c06f1c4c.js",
     "static/js/787.bad3304b.chunk.js": "/BrettRGebbie/static/js/787.bad3304b.chunk.js",
     "static/media/banana-leaf-black-background-digital-art-i1m1ulaygn46l916.jpg": "/BrettRGebbie/static/media/banana-leaf-black-background-digital-art-i1m1ulaygn46l916.c4278dc67756c947238e.jpg",
     "index.html": "/BrettRGebbie/index.html",
-    "main.ee98d418.css.map": "/BrettRGebbie/static/css/main.ee98d418.css.map",
+    "main.70311978.css.map": "/BrettRGebbie/static/css/main.70311978.css.map",
     "main.c06f1c4c.js.map": "/BrettRGebbie/static/js/main.c06f1c4c.js.map",
     "787.bad3304b.chunk.js.map": "/BrettRGebbie/static/js/787.bad3304b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee98d418.css",
+    "static/css/main.70311978.css",
     "static/js/main.c06f1c4c.js"
   ]
 }
